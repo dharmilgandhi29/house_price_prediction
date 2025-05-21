@@ -40,4 +40,4 @@ To estimate housing prices based on key property features using regression trees
 
 ## 🚫 Notes
 
-This is a clean, educational analysis for showcasing modeling skills. Data is not included but can be replicated with ISLR2 or course materials.
+This is a clean, educational analysis for showcasing modeling skills. Data is not included due to large files.

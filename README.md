@@ -34,7 +34,7 @@ To estimate housing prices based on key property features using regression trees
 
 - `Full_code.Rmd` – Complete analysis including data prep and modeling
 - `Final_Model_Code.Rmd` – Focused code for the final pruned regression tree
-- `Interpretation.docx` – Summary of results and insights (if uploaded)
+- `Interpretation.pdf` – Summary of results and insights
 
 ---
 
